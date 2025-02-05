@@ -8,7 +8,7 @@
 - It is a fully responsive web application, so you can easily view it on your mobile device as well
 
 ### Tools
-- React
+- ReactJs
 - Redux
 - React-Router
 - Material-UI
